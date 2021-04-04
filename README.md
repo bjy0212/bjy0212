@@ -1,7 +1,7 @@
 ### 변준영
-🏫 세종대학교 소프트웨어융합대학 컴퓨터공학과 재학중  
-
-
+🏫 Sejong University  
+📚 Majoring in Computer Engineering  
+📅 Expected graduation date: 2027-02  
 
 ### 💻 My Projects
 > ⚙️ WebDev  
