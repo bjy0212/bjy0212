@@ -1,9 +1,9 @@
-### 변준영
+## 변준영
 🏫 Sejong University  
 📚 Majoring in Computer Engineering  
 📅 Expected graduation date: 2027-02  
 
-### 💻 My Projects
+## 💻 My Projects
 > ⚙️ WebDev  
 > ├ [My Studies](https://github.com/bjy0212/webprojects)  
 > └ [Web Page Designs(from html5up.net)](https://github.com/bjy0212/yoonjinyoung)
