@@ -20,7 +20,9 @@
 >   
 > 🏅 Competitions  
 > └ [ICT Upcycling Arduino Competition](https://github.com/bjy0212/arduino_rain_alarm)  
-> 
+>   
+> 📚 Studys
+> └ [C# 익숙해지기(CMD에서 동작되는 RPG 만들기)](https://github.com/bjy0212/TextRPG)
 
 ## Github_Stats  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
