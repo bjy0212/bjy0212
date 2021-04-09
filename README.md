@@ -31,7 +31,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Waka_Time!
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bjy0212&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 <!--
 **bjy0212/bjy0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
