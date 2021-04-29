@@ -6,7 +6,7 @@
 ## 💻 My Projects
 > ⚙️ WebDev  
 > ├ [My Studies](https://github.com/bjy0212/webprojects)  
-> └ [Web Page Designs(from html5up.net)](https://github.com/bjy0212/yoonjinyoung)
+> └ [Web Page Design Practice(from html5up.net)](https://github.com/bjy0212/yoonjinyoung)
 >   
 > 🖥️ Node.js  
 > └  
