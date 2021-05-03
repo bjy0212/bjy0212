@@ -9,7 +9,7 @@
 > └ [Web Page Design Practice(from html5up.net)](https://github.com/bjy0212/yoonjinyoung)
 >   
 > 🖥️ Node.js  
-> └  
+> └ [discord 음악 봇](https://github.com/bjy0212/discord-music-bot)
 >   
 > 🎮 GameDev  
 > └ Currently working on it.  
