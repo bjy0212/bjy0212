@@ -2,6 +2,7 @@
 🏫 Sejong University  
 📚 Majoring in Computer Engineering  
 📅 Expected graduation date: 2027-02  
+✨ CTO of [UDAUM](https://instagram.com/udaum_official?utm_medium=copy_link)
 
 ## 💻 My Projects
 > ⚙️ WebDev  
@@ -9,7 +10,7 @@
 > └ [Web Page Design Practice(from html5up.net)](https://github.com/bjy0212/yoonjinyoung)
 >   
 > 🖥️ Node.js  
-> └ [discord 음악 봇](https://github.com/bjy0212/discord-music-bot)
+> └ [discord 음악 봇(deprecated)](https://github.com/bjy0212/discord-music-bot)
 >   
 > 🎮 GameDev  
 > └ Currently working on it.  
@@ -19,10 +20,11 @@
 > └ [Rhythm Game With Electron.js & JSON](https://github.com/bjy0212/rhythm)  
 >   
 > 🏅 Competitions  
-> └ [ICT Upcycling Arduino Competition](https://github.com/bjy0212/arduino_rain_alarm)  
+> ├ [ICT Upcycling Arduino Competition](https://github.com/bjy0212/arduino_rain_alarm)  
+> └ 
 >   
 > 📚 Studys  
-> └ [C# 익숙해지기(CMD에서 동작되는 RPG 만들기)](https://github.com/bjy0212/TextRPG)
+> └ [C# 익숙해지기(CMD에서 동작되는 RPG 만들기)(deprecated)](https://github.com/bjy0212/TextRPG)
 
 ## Github_Stats  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
