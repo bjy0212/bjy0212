@@ -1,14 +1,14 @@
 ## 변준영
-<p align="center">
-  <p>🏫 Sejong University  
-  📚 Majoring in Computer Engineering  
-  📅 Expected graduation date: 2027-02  
+<div align="center" stye="display:flex">
+  <div>🏫 Sejong University  <br>
+  📚 Majoring in Computer Engineering  <br>
+  📅 Expected graduation date: 2027-02  <br>
   ✨ CTO of [UDAUM](https://instagram.com/udaum_official?utm_medium=copy_link)
-  </p>
-  <a href="https://github.com/devxb/CommitCombo">
+  </div>
+  <div href="https://github.com/devxb/CommitCombo">
     <img src="http://commitcombo.com/get?user=bjy0212&theme=Indigo" width = "265" height = "auto" />
-  </a>
-</p>
+  </div>
+</div>
 
 ## 💻 My Projects
 > ⚙️ WebDev  
