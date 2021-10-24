@@ -30,11 +30,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
 
 ## Language_Usage  
-<p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
- <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<p> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=material-palenight" />
+  </a>
   <a href="https://github.com/devxb/CommitCombo">
      <img src="http://commitcombo.com/get?user=bjy0212&theme=Indigo" width = "265" height = "auto" />
   </a>
