@@ -1,5 +1,5 @@
 ## 변준영
-<div align="center" stye="display:flex">
+<div style="display:flex">
   <div>🏫 Sejong University  <br>
   📚 Majoring in Computer Engineering  <br>
   📅 Expected graduation date: 2027-02  <br>
