@@ -27,9 +27,8 @@
 > └ [C# 익숙해지기(CMD에서 동작되는 RPG 만들기)(deprecated)](https://github.com/bjy0212/TextRPG)
 
 ## Github_Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)   
 
-## Language_Usage  
 <p> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=material-palenight" />
