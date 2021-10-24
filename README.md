@@ -1,8 +1,14 @@
 ## 변준영
-🏫 Sejong University  
-📚 Majoring in Computer Engineering  
-📅 Expected graduation date: 2027-02  
-✨ CTO of [UDAUM](https://instagram.com/udaum_official?utm_medium=copy_link)
+<p align="center">
+  <p>🏫 Sejong University  
+  📚 Majoring in Computer Engineering  
+  📅 Expected graduation date: 2027-02  
+  ✨ CTO of [UDAUM](https://instagram.com/udaum_official?utm_medium=copy_link)
+  </p>
+  <a href="https://github.com/devxb/CommitCombo">
+    <img src="http://commitcombo.com/get?user=bjy0212&theme=Indigo" width = "265" height = "auto" />
+  </a>
+</p>
 
 ## 💻 My Projects
 > ⚙️ WebDev  
@@ -31,9 +37,6 @@
 
 ## Language_Usage  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)  
-
-## Commit_Combo
-[![commit combo](http://commitcombo.com/get?user=bjy0212&theme=Indigo&v=1)](https://github.com/devxb/commitcombo)
 <!--
 **bjy0212/bjy0212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
