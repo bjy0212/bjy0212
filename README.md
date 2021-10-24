@@ -34,6 +34,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=blueberry" />
   </a>
   <a href="https://github.com/devxb/CommitCombo">
-     <img src="http://commitcombo.com/get?user=bjy0212&theme=Indigo" width = "265" height = "auto" />
+     <img src="http://commitcombo.com/get?user=bjy0212&theme=Indigo"  />
   </a>
  </p>
