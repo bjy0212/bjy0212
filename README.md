@@ -27,11 +27,11 @@
 > └ [C# 익숙해지기(CMD에서 동작되는 RPG 만들기)(deprecated)](https://github.com/bjy0212/TextRPG)
 
 ## Github_Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)   
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)   
 
 <p> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=material-palenight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=blueberry" />
   </a>
   <a href="https://github.com/devxb/CommitCombo">
      <img src="http://commitcombo.com/get?user=bjy0212&theme=Indigo" width = "265" height = "auto" />
