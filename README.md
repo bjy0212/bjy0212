@@ -13,10 +13,9 @@
 > └ [discord 음악 봇(deprecated)](https://github.com/bjy0212/discord-music-bot)
 >   
 > 🎮 GameDev  
-> └ Currently working on it.  
+> └ [Canvas Game Engine](https://github.com/bjy0212/canvas-game-engine) 
 >     
 > :electron: Electron.js  
-> ├ [Electron.js GameDev(UnFinished)](https://github.com/bjy0212/electron_game)  
 > └ [Rhythm Game With Electron.js & JSON](https://github.com/bjy0212/rhythm)  
 >   
 > 🏅 Competitions  
