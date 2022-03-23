@@ -27,3 +27,9 @@
 
 ## Github_Stats  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)   
+
+<p> 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=blueberry" />
+  </a>
+ </p>
