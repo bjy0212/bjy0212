@@ -20,7 +20,7 @@
 >   
 > 🏅 Competitions  
 > ├ [ICT Upcycling Arduino Competition](https://github.com/bjy0212/arduino_rain_alarm)  
-> └ [AIxArt 장관상](https://github.com/bjy0212/aichatWithFlask)
+> └ AIxArt 장관상
 >   
 > 📚 Studys  
 > └ [C# 익숙해지기(CMD에서 동작되는 RPG 만들기)(deprecated)](https://github.com/bjy0212/TextRPG)
