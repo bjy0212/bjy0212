@@ -2,7 +2,7 @@
 🏫 Sejong University  
 📚 Majoring in Computer Engineering  
 📅 Expected graduation date: 2027-02  
-✨ CTO of [UDAUM](https://instagram.com/udaum_official?utm_medium=copy_link)
+✨ CTO of [UDAUM](https://udaum.space)
 
 ## 💻 My Projects
 > ⚙️ WebDev  
