@@ -7,14 +7,14 @@
 ## 💻 My Projects
 > ⚙️ WebDev  
 > ├ [My Studies](https://github.com/bjy0212/webprojects)  
-> └ [Web Page Design Practice(from html5up.net)](https://github.com/bjy0212/yoonjinyoung)
+> └ [Web Page Design Practice(from html5up.net)](https://github.com/bjy0212/yoonjinyoung)  
 >   
 > 🖥️ Node.js  
-> └ [discord 음악 봇(deprecated)](https://github.com/bjy0212/discord-music-bot)
+> └ [discord 음악 봇(deprecated)](https://github.com/bjy0212/discord-music-bot)  
 >   
 > 🎮 GameDev  
-> ├ [Canvas Game Engine(deprecated)](https://github.com/bjy0212/canvas-game-engine)
-> └ [RedFoxEngine](https://github.com/bjy0212/RedFoxEngine)
+> ├ [Canvas Game Engine(deprecated)](https://github.com/bjy0212/canvas-game-engine)  
+> └ [RedFoxEngine](https://github.com/bjy0212/RedFoxEngine)  
 >     
 > :electron: Electron.js  
 > └ [Rhythm Game With Electron.js & JSON](https://github.com/bjy0212/rhythm)  
