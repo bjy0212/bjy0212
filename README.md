@@ -13,7 +13,6 @@
 > └ [discord 음악 봇(deprecated)](https://github.com/bjy0212/discord-music-bot)  
 >   
 > 🎮 GameDev  
-> ├ [Canvas Game Engine(deprecated)](https://github.com/bjy0212/canvas-game-engine)  
 > └ [RedFoxEngine](https://github.com/bjy0212/RedFoxEngine)  
 >     
 > :electron: Electron.js  
