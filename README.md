@@ -6,7 +6,7 @@
 
 ## 💻 My Projects
 > ⚙️ WebDev
-> ├ [Vite + THREE.js Bases](https://github.com/bjy0212/vite-three-base)
+> ├ [Vite + THREE.js Bases](https://github.com/bjy0212/vite-three-base)  
 > └ --[My Studies](https://github.com/bjy0212/webprojects)--
 >   
 > 🖥️ Node.js  
