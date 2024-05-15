@@ -21,12 +21,10 @@
 >   
 > 🏅 Competitions  
 > ├ [ICT Upcycling Arduino Competition](https://github.com/bjy0212/arduino_rain_alarm)  
-> └ AIxArt 장관상
+> └ [AIxArt 장관상](https://www.youtube.com/watch?v=altpuN4iMso&ab_channel=AIxART)
 >
 
 ## Github_Stats  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjy0212&hide=prs,issues&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)   
-
 <p> 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjy0212&layout=compact&theme=blueberry" />
