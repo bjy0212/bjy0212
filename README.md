@@ -5,9 +5,9 @@
 ✨ CTO of [UDAUM](https://udaum.space)
 
 ## 💻 My Projects
-> ⚙️ WebDev
+> ⚙️ WebDev  
 > ├ [Vite + THREE.js Bases](https://github.com/bjy0212/vite-three-base)  
-> └ --[My Studies](https://github.com/bjy0212/webprojects)--
+> └ ~~[My Studies](https://github.com/bjy0212/webprojects)~~  
 >   
 > 🖥️ Node.js  
 > └ [discord 음악 봇(deprecated)](https://github.com/bjy0212/discord-music-bot)  
