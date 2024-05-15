@@ -6,8 +6,7 @@
 
 ## 💻 My Projects
 > ⚙️ WebDev  
-> ├ [Vite + THREE.js Bases](https://github.com/bjy0212/vite-three-base)  
-> └ ~~[My Studies](https://github.com/bjy0212/webprojects)~~  
+> └ [Vite + THREE.js Bases](https://github.com/bjy0212/vite-three-base)   
 >   
 > 🖥️ Node.js  
 > └ [discord 음악 봇(deprecated)](https://github.com/bjy0212/discord-music-bot)  
